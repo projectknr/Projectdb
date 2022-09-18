@@ -1,0 +1,10 @@
+9/18/2022 7:55:09 PM	This log contains information about the import schema operation into project 'CICD_DB' on computer 'SSC-IS233' by user 'SK056655'.
+9/18/2022 7:55:09 PM	Deserializing model
+9/18/2022 7:55:09 PM	Resolving model
+9/18/2022 7:55:09 PM	Visiting imported model for types
+9/18/2022 7:55:09 PM	Scanning project for duplicate elements
+9/18/2022 7:55:09 PM	Finished duplicate element processing
+9/18/2022 7:55:10 PM	Processing extra files
+9/18/2022 7:55:10 PM	Finished importing Data-tier Application file.
+9/18/2022 7:55:10 PM	A summary of the import was saved to the following location: C:\Users\sk056655\Desktop\Current Sprint\DevOps_Check\Source_DB_CICD\CICD_Repo\CICD_DB\CICD_DB\Import Schema Logs\CICD_DB_20220918115509.log
+9/18/2022 7:55:10 PM	Click Finish to continue...
