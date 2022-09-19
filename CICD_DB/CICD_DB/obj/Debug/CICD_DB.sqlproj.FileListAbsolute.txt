@@ -1,0 +1,6 @@
+C:\Users\sk056655\Desktop\Current Sprint\DevOps_Check\Source_DB_CICD\CICD_Repo\CICD_DB\CICD_DB\bin\Debug\CICD_DB.dacpac
+C:\Users\sk056655\Desktop\Current Sprint\DevOps_Check\Source_DB_CICD\CICD_Repo\CICD_DB\CICD_DB\bin\Debug\CICD_DB.dll
+C:\Users\sk056655\Desktop\Current Sprint\DevOps_Check\Source_DB_CICD\CICD_Repo\CICD_DB\CICD_DB\bin\Debug\CICD_DB.pdb
+C:\Users\sk056655\Desktop\Current Sprint\DevOps_Check\Source_DB_CICD\CICD_Repo\CICD_DB\CICD_DB\obj\Debug\CICD_DB.sqlproj.AssemblyReference.cache
+C:\Users\sk056655\Desktop\Current Sprint\DevOps_Check\Source_DB_CICD\CICD_Repo\CICD_DB\CICD_DB\obj\Debug\CICD_DB.dll
+C:\Users\sk056655\Desktop\Current Sprint\DevOps_Check\Source_DB_CICD\CICD_Repo\CICD_DB\CICD_DB\obj\Debug\CICD_DB.pdb
