@@ -11,6 +11,7 @@
     [CreatedDate] DATETIME2 NULL, 
     [CreatedBy] NVARCHAR(50) NULL, 
     [Zipcode] NVARCHAR(50) NULL, 
+    [CityName] NVARCHAR(50) NULL, 
     CONSTRAINT [PK_Address_AddressID] PRIMARY KEY CLUSTERED ([AddressID] ASC),
     CONSTRAINT [AK_Address_rowguid] UNIQUE NONCLUSTERED ([rowguid] ASC)
 );
